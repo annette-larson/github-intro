@@ -1,7 +1,12 @@
 
 int led = 13;
 
-void setup() {                
+void setup() {                // i hope im doing this right
+                              // i pressed fork
+                              //then edit
+                              //now im typing
+                              //are we supposed to make specific comments?
+                              
 
   pinMode(led, OUTPUT);     
 }
